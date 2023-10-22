@@ -1,4 +1,4 @@
-# task-sorter
+# task-sorter
 
 부드러운 드래그 앤 드롭 UI를 탑재한 To-Do 애플리케이션입니다.
 
